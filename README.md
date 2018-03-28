@@ -1,4 +1,4 @@
-# Cloudy Currency Discord Bot [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars)](https://github.com/CloudyDiscord/Currency)
+# Cloudy Currency Discord Bot [![GitHub stars](https://img.shields.io/github/stars/CloudyDiscord/Currency.svg?style=social&label=Stars)](https://github.com/CloudyDiscord/Currency)
 
 [![GitHub release](https://img.shields.io/github/release/CloudyDiscord/Currency.svg)](https://github.com/CloudyDiscord/Currency)
 [![Github commits (since latest release)](https://img.shields.io/github/commits-since/CloudyDiscord/Currency/latest.svg)](https://github.com/CloudyDiscord/Currency)
