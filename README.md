@@ -7,4 +7,6 @@
 [![GitHub last commit](https://img.shields.io/github/last-commit/CloudyDiscord/Currency.svg)](https://github.com/CloudyDiscord/Currency)
 
 
+
 ## Hello! Welcome to the Cloudy Discord Bot github.
+### This github will have all the updates made to the bot.
